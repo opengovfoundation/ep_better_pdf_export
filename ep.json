@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "ep_better_pdf_export",
+      "hooks":{
+        "exportConvert": "ep_better_pdf_export/export.js"
+      }
+    }
+  ]
+}
+
