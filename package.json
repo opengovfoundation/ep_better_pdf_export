@@ -3,13 +3,14 @@
   "description": "Better PDF Export",
   "version": "0.0.1",
   "author": {
-    "name": "johnyma22",
+    "name": "John McLear",
     "email": "john@mclear.co.uk",
-    "url": "John McLear"
+    "url": "http://mclear.co.uk"
   },
   "contributors": [],
   "dependencies": {
-    "html-pdf":"1.4.0"
+    "html-pdf":"1.4.0",
+    "request":">=2.67.0"
   },
   "engines": {
     "node": "*"
